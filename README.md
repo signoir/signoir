@@ -1,3 +1,3 @@
 # signoir
 
-A quick description of signoir.
+Oauth2 server for [insight](https://github.com/signoir/insight).
