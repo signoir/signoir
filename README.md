@@ -1,4 +1,4 @@
-Moved repository Oauth2 support for [insight](https://github.com/signoir/insight) to [onslaught](https://github.com/signoir/onslaught).
+Oauth2 support for [insight](https://github.com/signoir/insight) repository has been moved into [onslaught](https://github.com/signoir/onslaught).
 
 # signoir
 
